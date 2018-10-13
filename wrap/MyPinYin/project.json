@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net40": {
+      "wrappedProject": "../../MyPinYin.csproj",
+      "bin": {
+        "assembly": "../../obj/{configuration}/MyPinYin.dll",
+        "pdb": "../../obj/{configuration}/MyPinYin.pdb"
+      }
+    }
+  }
+}
