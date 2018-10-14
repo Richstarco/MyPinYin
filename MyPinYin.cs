@@ -10,6 +10,7 @@ public class PinYin
     {
         if (strText == null || strText.Length == 0)
         {
+            //
             return strText;
         }
 
